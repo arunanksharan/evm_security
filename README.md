@@ -3,6 +3,9 @@
 ## Source: Guardian: Advanced Web3 Security Course 
 - https://guardianaudits.notion.site/guardianaudits/Gateway-Free-Web3-Security-Course-574f4d819c144d7895cda6d61ba26503
 
+## Personal Notes: Notion
+https://www.notion.so/Notes-Advanced-Web3-Security-09f7ff14473245b4b80a487d803a3fdd
+
 **Goal**
 
 Share some of my experiences and learnings on designing secure smart contracts. This will not only make you a better Web3 developer, but it will give you those code smells when something isn’t designed well — you’ll know to dig in there and uncover the issues with it.
